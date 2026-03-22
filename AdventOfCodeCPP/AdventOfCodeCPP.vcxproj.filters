@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\2015">
+      <UniqueIdentifier>{17bce43b-ce5f-47fe-b26c-11e75009950e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\2015">
+      <UniqueIdentifier>{d2d55548-7072-4d51-a36d-afa4870b9622}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AdventOfCodeCPP.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="D01Z01.cpp">
+      <Filter>Pliki źródłowe\2015</Filter>
+    </ClCompile>
+    <ClCompile Include="D01Z02.cpp">
+      <Filter>Pliki źródłowe\2015</Filter>
+    </ClCompile>
+    <ClCompile Include="D02Z01.cpp">
+      <Filter>Pliki źródłowe\2015</Filter>
+    </ClCompile>
+    <ClCompile Include="D02Z02.cpp">
+      <Filter>Pliki źródłowe\2015</Filter>
+    </ClCompile>
+    <ClCompile Include="D03Z01.cpp">
+      <Filter>Pliki źródłowe\2015</Filter>
+    </ClCompile>
+    <ClCompile Include="D03Z02.cpp">
+      <Filter>Pliki źródłowe\2015</Filter>
+    </ClCompile>
+    <ClCompile Include="D03_Dom.cpp">
+      <Filter>Pliki źródłowe\2015</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D01Z02.h">
+      <Filter>Pliki nagłówkowe\2015</Filter>
+    </ClInclude>
+    <ClInclude Include="D01Z01.h">
+      <Filter>Pliki nagłówkowe\2015</Filter>
+    </ClInclude>
+    <ClInclude Include="D02Z01.h">
+      <Filter>Pliki nagłówkowe\2015</Filter>
+    </ClInclude>
+    <ClInclude Include="D02Z02.h">
+      <Filter>Pliki nagłówkowe\2015</Filter>
+    </ClInclude>
+    <ClInclude Include="D03Z01.h">
+      <Filter>Pliki nagłówkowe\2015</Filter>
+    </ClInclude>
+    <ClInclude Include="D03Z02.h">
+      <Filter>Pliki nagłówkowe\2015</Filter>
+    </ClInclude>
+    <ClInclude Include="D03_Dom.h">
+      <Filter>Pliki nagłówkowe\2015</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="D01.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
+    <Text Include="D02.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
+    <Text Include="D03.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
