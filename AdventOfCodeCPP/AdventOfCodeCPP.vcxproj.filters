@@ -42,6 +42,12 @@
     <ClCompile Include="D03Z02.cpp">
       <Filter>Pliki źródłowe\2015</Filter>
     </ClCompile>
+    <ClCompile Include="D05Z01.cpp">
+      <Filter>Pliki źródłowe\2015</Filter>
+    </ClCompile>
+    <ClCompile Include="D05Z02.cpp">
+      <Filter>Pliki źródłowe\2015</Filter>
+    </ClCompile>
     <ClCompile Include="D03_Dom.cpp">
       <Filter>Pliki źródłowe\2015</Filter>
     </ClCompile>
@@ -65,6 +71,12 @@
     <ClInclude Include="D03Z02.h">
       <Filter>Pliki nagłówkowe\2015</Filter>
     </ClInclude>
+    <ClInclude Include="D05Z01.h">
+      <Filter>Pliki nagłówkowe\2015</Filter>
+    </ClInclude>
+    <ClInclude Include="D05Z02.h">
+      <Filter>Pliki nagłówkowe\2015</Filter>
+    </ClInclude>
     <ClInclude Include="D03_Dom.h">
       <Filter>Pliki nagłówkowe\2015</Filter>
     </ClInclude>
@@ -77,6 +89,9 @@
       <Filter>Pliki zasobów</Filter>
     </Text>
     <Text Include="D03.txt">
+      <Filter>Pliki zasobów</Filter>
+    </Text>
+    <Text Include="D05.txt">
       <Filter>Pliki zasobów</Filter>
     </Text>
   </ItemGroup>
