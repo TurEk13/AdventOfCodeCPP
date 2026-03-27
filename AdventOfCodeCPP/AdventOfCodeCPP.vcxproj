@@ -136,6 +136,8 @@
     <ClCompile Include="D03Z02.cpp" />
     <ClCompile Include="D05Z01.cpp" />
     <ClCompile Include="D05Z02.cpp" />
+    <ClCompile Include="D06Z01.cpp" />
+    <ClCompile Include="D06Z02.cpp" />
     <ClCompile Include="D03_Dom.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -147,6 +149,8 @@
     <ClInclude Include="D03Z02.h" />
     <ClInclude Include="D05Z01.h" />
     <ClInclude Include="D05Z02.h" />
+    <ClInclude Include="D06Z01.h" />
+    <ClInclude Include="D06Z02.h" />
     <ClInclude Include="D03_Dom.h" />
   </ItemGroup>
   <ItemGroup>
@@ -154,6 +158,7 @@
     <Text Include="D02.txt" />
     <Text Include="D03.txt" />
     <Text Include="D05.txt" />
+    <Text Include="D06.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
